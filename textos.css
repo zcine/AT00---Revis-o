@@ -1,0 +1,40 @@
+.titulo{
+    font-family: "Ruda", sans-serif;
+    width: 300px;
+    text-wrap: wrap;
+    font-weight:900;
+    font-size: 40px;
+    padding-top: 40px;
+    margin-bottom: 90px;
+}
+
+.subtitulo{
+    font-family: "Ruda", sans-serif;
+    text-transform: uppercase;
+    font-weight:900;
+    font-size: 20px;
+}
+
+h3{
+    margin-top: 50px;
+    font-family: "Ruda", sans-serif;
+    font-weight: 800;
+}
+
+p{
+    font-family: "Nunito", sans-serif;
+    font-size: 15px;
+}
+
+/*INTERAÇÃO*/
+.contato{
+    display: grid;
+    width: 80%;
+}
+
+.botao{
+    font-size: 15px;
+    font-family: "Nunito", sans-serif;
+    text-decoration: none;
+    color: black;
+}

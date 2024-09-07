@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+/*TUDO*/
+.curriculo{
+    width: 1400px;
+    display: flex;
+}
+
+/*TELAS*/
+.perfil{
+    background-color: #d9d9d9;
+    width: 30%;
+}
+.descricao{
+    background-color: white;
+    width: 70%;
+    padding-left: 0px;
+    margin-right: 300px;
+}
+
+.distancia1{
+    margin-left: 40px;
+    margin-bottom: 90px;
+    margin-top: 40px;
+    padding-right: 90px;
+    
+}
+
+.distancia0{
+    margin-right: 240px;
+    margin-bottom: 90px;
+    margin-top: 90px;
+    padding-left: 40px;
+
+}
+
+/*TAMANHOS*/
+.foto{
+    height: 165px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.icone{
+    margin: 0px 20px 0px 0px;
+    height: 20px;
+    mix-blend-mode: multiply;
+}
+
+/*DEMARCAÇÕES*/
+header{
+    background-color: black;
+    position: absolute;
+    height: 2%;
+    width: 150%;
+}
+
+footer{
+    background-color: black;
+    position: absolute;
+    height: 2%;
+    width: 150%;
+}
